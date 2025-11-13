@@ -47,7 +47,7 @@ def main():
 
     except KeyboardInterrupt:
         print("\n" + "=" * 50)
-        print("Shutting down Timestamp service...")
+        print("Shutting down Randomizer service...")
         print(f"Total requests processed: {request_count}")
         print("=" * 50)
 
